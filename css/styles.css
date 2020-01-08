@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    margin: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.column {
+    margin: 20px;
+    padding: 16px;
+    float: left;
+    width: 400px;
+    background-color: aquamarine;
+}
+
+.column img {
+    width: 200px;
+    border: solid;
+    border-color: white;
+    border-width: 8px;
+}
+
+.column h2 {
+    text-align: center;
+    color: bisque;
+    text-shadow: 2px 2px rgb(99, 94, 94);
+}
+
+.column p {
+    font-style: italic;
+}
+
+.here {
+    text-decoration: underline;
+    padding: 20px;
+    
+}
+mark{
+    background-color: chocolate;
+}
